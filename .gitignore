@@ -1,0 +1,7 @@
+*.log
+*.depend
+*.layout
+*.cbp
+*.txt
+bin/
+obj/
