@@ -1,4 +1,4 @@
-Autor: Damian Ró¿ek
-Projekt: Ksi¹¿ka Adresowa
-Opis: Prosty program konsolowy do prowadzenia spisu naszych kontaktów.
+Autor: Damian RÃ³Å¼ek
+Projekt: KsiÄ…Å¼ka Adresowa
+Opis: Prosty program konsolowy do prowadzenia spisu naszych kontaktÃ³w.
 Wersja: 0.1
